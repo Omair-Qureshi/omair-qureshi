@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Omair-Qureshi/omair-qureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,12 +11,11 @@
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Omair (Full-stack developer)</h1>
-<h3 align="center">"As the saying goes, 'Choose a job you love and you will never have to work a day in your life'. This quote resonates with me as I have found my true passion in coding and programming. I enjoy every moment of it and I believe that this passion translates into the quality of my work. I am thrilled to have found a career that challenges me in new and exciting ways and brings me joy every day. As a full-stack web developer, I am excited to continue learning and growing in this field while contributing my skills and enthusiasm to a team that shares my passion for programming."</h3>
+<p align="center">"As the saying goes, 'Choose a job you love and you will never have to work a day in your life'. This quote resonates with me as I have found my true passion in coding and programming. I enjoy every moment of it and I believe that this passion translates into the quality of my work. I am thrilled to have found a career that challenges me in new and exciting ways and brings me joy every day. As a full-stack web developer, I am excited to continue learning and growing in this field while contributing my skills and enthusiasm to a team that shares my passion for programming."</p>
 
 - 🔭I’m currently working to further improve my skills in **Ruby, Ruby on Rails, CSS and JavaScript.**
 
-- 👨‍💻 My bootcamp projects [https://github.com/Omair-Qureshi/iNeed,https://github.com/AlexTschab/Cars_rental_1182]
-- (https://github.com/Omair-Qureshi/iNeed,https://github.com/AlexTschab/Cars_rental_1182)
+- 👨‍💻 My bootcamp projects: [iNeed-Grocery_app](https://github.com/Omair-Qureshi/iNeed),[Car_Rental](https://github.com/AlexTschab/Cars_rental_1182)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
