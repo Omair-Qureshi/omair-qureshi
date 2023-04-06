@@ -18,7 +18,7 @@
 - 👨‍💻 My bootcamp projects: 
 <ul> 
   <li>[iNeed-Grocery_app](https://github.com/Omair-Qureshi/iNeed)</li>
-  <li>[Car-Rental](https://github.com/AlexTschab/Cars_rental_1182)</li> 
+  <li><a href="https://github.com/AlexTschab/Cars_rental_1182"> Car_rental</a></li> 
 </ul>
 
 <h3 align="left">Connect with me:</h3>
