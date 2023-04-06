@@ -15,7 +15,7 @@
 
 - 🔭I’m currently working to further improve my skills in **Ruby, Ruby on Rails, CSS and JavaScript.**
 
-- 👨‍💻 My bootcamp projects: 
+###My bootcamp projects: 
 <ul> 
   <li> <a href="https://github.com/Omair-Qureshi/iNeed">iNeed (Grocery app)</a></li>
   <li><a href="https://github.com/AlexTschab/Cars_rental_1182"> Car rental</a></li> 
