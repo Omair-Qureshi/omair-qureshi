@@ -15,11 +15,11 @@
 
 - 🔭I’m currently working to further improve my skills in **Ruby, Ruby on Rails, CSS and JavaScript.**
 
-###My bootcamp projects: 
-<ul> 
-  <li> <a href="https://github.com/Omair-Qureshi/iNeed">iNeed (Grocery app)</a></li>
-  <li><a href="https://github.com/AlexTschab/Cars_rental_1182"> Car rental</a></li> 
-</ul>
+<h3>My bootcamp projects: </h3>
+  <ul> 
+    <li> <a href="https://github.com/Omair-Qureshi/iNeed">iNeed (Grocery app)</a></li>
+    <li><a href="https://github.com/AlexTschab/Cars_rental_1182"> Car rental</a></li> 
+  </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
